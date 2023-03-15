@@ -1,0 +1,54 @@
+https://pastebin.com/QiZ653Vt
+
+ddpg	basic	30	37.87
+
+
+ddpg	basic	30	37.93
+
+DDPG 30 STATIC FOR CW MEAN:
+ 
+37.87
+https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/caac8c270b5b486ab37a39c78b06f989
+ 
+37.93
+https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/0b7e4b9d8e864c07bf9041db41a785a1
+
+
+ddpg	basic	30	37.91
+https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/d2f40f5bab414c9d859f13a0e329223d
+
+ddpg	basic	30	37.83
+https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/25d4e8b94bd9437f815e080bfc0c8de7
+
+5 últimos valores
+-----------------
+
+ddpg-pcol: 
+208.20157657657657, 
+200.9157733537519, 
+199.7373417721519, 
+196.61927621861153, 
+199.56650418583638
+
+ddpg-avg queue level: 
+213.37735849056602,
+213.9256168359942,
+216.00442834138485,
+215.4176258992806,
+215.25185924694253
+
+------------------
+dqn-pcol:
+225.4180790960452, 
+224.5553914327917, 
+222.49776453055142, 
+223.0468085106383, 
+225.52850539291217
+
+
+dqn-avg queue level:
+221.21658986175115,
+222.0125,
+219.8433734939759,
+219.92603129445234,
+223.77712609970675

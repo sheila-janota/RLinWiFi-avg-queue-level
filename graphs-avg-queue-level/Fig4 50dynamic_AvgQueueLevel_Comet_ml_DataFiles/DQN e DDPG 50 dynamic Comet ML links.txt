@@ -1,0 +1,15 @@
+50 stations dynamic
+
+DDPG 37.95 
+https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/6944c5b2fb114376a6cad2fd1a8faf58
+
+https://pastebin.com/egAL2ufs
+37.95
+1) https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/6944c5b2fb114376a6cad2fd1a8faf58
+ 
+37.98
+2) https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/b3801b88337a46f4a3e83d5e3dff3c32
+
+---------
+DQN 37.63
+https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/4f407e0e29ac47fe9ca20ca1334450ae

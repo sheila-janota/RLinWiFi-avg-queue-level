@@ -1,0 +1,36 @@
+50 stations dynamic
+
+Para Avg Queue Level
+
+DDPG 37.95 
+https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/6944c5b2fb114376a6cad2fd1a8faf58
+
+https://pastebin.com/egAL2ufs
+37.95
+1) https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/6944c5b2fb114376a6cad2fd1a8faf58
+ 
+37.98
+2) https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/b3801b88337a46f4a3e83d5e3dff3c32
+
+---------
+DQN 37.63
+https://www.comet.com/sheila-janota/rl-in-wifi-with-queue-level/4f407e0e29ac47fe9ca20ca1334450ae
+
+
+--------------
+
+Para Pcol
+
+Observation type = pcol
+reprodução
+ddpg = 37.51
+https://www.comet.com/sheila-janota/rl-in-wifi/3a9b8664399f40c3b2bb0d5abbc7412d
+ 
+dqn = 37.47
+ https://www.comet.com/sheila-janota/rl-in-wifi/d35d9ed89c45477e92e069583fa7847f
+ 
+dqn = 37.20
+https://www.comet.com/sheila-janota/rl-in-wifi/c4a0adaffa7647769ff952d991eea129
+
+
+
