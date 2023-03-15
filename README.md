@@ -14,7 +14,7 @@ This repository presents a contention window optimization solution for Wi-Fi whe
 
 2) Installation of the ns3-gym environment (https://github.com/tkn-tub/ns3-gym).
 
-3) CometML account is also needed (https://www.comet.ml/signup) to observe the resultsing the graphs. After creating it update the `comet_token.json` file with your credentials.
+3) CometML account is also needed (https://www.comet.ml/signup) to view the graphical results. After creating it update the `comet_token.json` file with your credentials.
 
 Run BEB tests
 
