@@ -2,7 +2,7 @@
 This repository presents a contention window optimization solution for Wi-Fi where the network information is based on the averaged normalized transmission queues’ level.
 
 ## Prerequisites
-1) Installation of python 3.6 and tensorflow dependencies are needed run the simulation. 
+1) Installation of python 3.6 and tensorflow dependencies are needed to run the simulation. 
 
 Installation of the following libraries are also needed.
 tqdm==4.35.0
