@@ -4,13 +4,13 @@ This repository presents a contention window optimization solution for Wi-Fi whe
 ## Prerequisites
 1) Installation of python 3.6 and tensorflow dependencies are needed to run the simulation. 
 
-Installation of the following libraries are also needed.
-tqdm==4.35.0
-torch==0.4.1
-torchvision==0.2.1
-tensorflow==1.14.0
-numpy==1.16.3
-comet-ml==2.0.12
+   Installation of the following libraries are also needed:
+    tqdm==4.35.0
+    torch==0.4.1
+    torchvision==0.2.1
+    tensorflow==1.14.0
+    numpy==1.16.3
+    comet-ml==2.0.12
 
 2) Installation of the ns3-gym environment (https://github.com/tkn-tub/ns3-gym).
 
